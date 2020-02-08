@@ -53,6 +53,7 @@ void Robot::AutonomousInit() {
 
 void Robot::AutonomousPeriodic() {
   if (m_autoSelected == kAutoNameCustom) {
+    //test 2
     // Custom Auto goes here
     //test
   } else {
